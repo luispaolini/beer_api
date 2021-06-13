@@ -35,7 +35,7 @@ São necessários os seguintes pré-requisitos para a execução do projeto dese
 * Controle de versão GIT instalado na sua máquina.
 * Muita vontade de aprender e compartilhar conhecimento :)
 
-Abaixo, seguem links bem bacanas, sobre tópicos mencionados durante a aula:
+Abaixo, seguem links bem bacanas, sobre tópicos mencionados:
 
 * [SDKMan! para gerenciamento e instalação do Java e Maven](https://sdkman.io/)
 * [Referência do Intellij IDEA Community, para download](https://www.jetbrains.com/idea/download)
